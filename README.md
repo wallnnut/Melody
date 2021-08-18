@@ -1,2 +1,2 @@
-# Melody
-Educational project GloAcademy
+# Melody Educational project GloAcademy
+## Done by Abdurakhmanov Marat
